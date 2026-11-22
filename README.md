@@ -36,7 +36,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
 - **Perfil Profesional en LinkedIn:** https://www.linkedin.com/in/adriano-aguirre-a1243b306/
-- **Curriculum Vitae Digital (PDF):** https://drive.google.com/file/d/17TIsaGHp7LooAw_t_g4yBSfb3-7Fh9EK/view?usp=sharing
+- **Curriculum Vitae Digital (PDF):** https://drive.google.com/file/d/1o330U187zh9zz2Bzd-YHcCLxJtwwUfLi/view?usp=drive_link
 - **Correo Institucional UTP:** adriano.aguirre@utp.ac.pa
 
 <p align="center">
